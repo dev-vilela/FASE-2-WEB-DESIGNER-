@@ -1,8 +1,6 @@
 # FASE-2-WEB-DESIGNER
 
 
-<h2>POP UP</h2>
-
 
 
 # 🖼️ POP-UP REDESIGN – Pontos de Interesse (POIs) | Midas
@@ -36,7 +34,7 @@ O redesenho foi feito com o objetivo de melhorar a **experiência do usuário (U
 - **Agora:** Blocos curtos e bem espaçados, facilitando a escaneabilidade.
 - **Motivo:** Pop-ups devem ser objetivos e rápidos de ler.
 
-<img src="img/image.png" alt="">
+<img src="/POP-UP/img/image.png" alt="">
 
 ### 2. **Hierarquia visual reforçada**
 - **Antes:** Título e subtítulo com pouco contraste visual entre si.
@@ -57,7 +55,7 @@ O redesenho foi feito com o objetivo de melhorar a **experiência do usuário (U
 
 ## 📷 Imagem Redesenhada
 
-![Popup Redesenhado](.\POP-UP\img\POP-UP.png)
+![Popup Redesenhado](/POP-UP/img/POP-UP.png)
 
 ---
 
