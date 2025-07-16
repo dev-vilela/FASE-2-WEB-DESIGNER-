@@ -80,13 +80,14 @@ Esta landing page foi desenvolvida com o objetivo de apresentar o empreendimento
 
 ---
 
-## ✨ Funcionalidades
+## ✅ Características do Layout
 
 - 📷 **Banner principal com imagem atrativa e chamada de ação**
 - 🏠 **Seção "Sobre o Residencial" com lista de benefícios**
 - 🖼️ **Galeria de imagens de alta qualidade**
-- 📍 **Mapa interativo da localização**
+- 📍 **Mapa com localização**
 - 📞 **Formulário de agendamento de visita**
 - 📱 **Totalmente responsivo para dispositivos móveis**
+- ✅ **Rodapé com redes sociais**
 
 ---
