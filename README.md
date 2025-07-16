@@ -76,7 +76,7 @@ Esta landing page foi desenvolvida com o objetivo de apresentar o empreendimento
 ![Versão Desktop](/LANDING-PAGE/img/landing-page.png)
 
 ### ✅ Versão Mobile
-![Versão Mobile](/LANDING-PAGE/img/versão-mobile2.png)
+![Versão Mobile](/LANDING-PAGE/img/versão-mobile.png)
 
 ---
 
