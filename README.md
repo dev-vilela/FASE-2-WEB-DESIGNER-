@@ -63,3 +63,30 @@ O redesenho foi feito com o objetivo de melhorar a **experiência do usuário (U
 
 O redesenho promoveu uma comunicação mais clara, atrativa e objetiva para os usuários da plataforma Midas, aumentando o potencial de conversão do recurso apresentado no pop-up.
 
+------------------------------------------------------------------------------------------------------------------------------
+
+# 🖼️Exercício 2 – Criação de Layout para Landing Page
+
+
+Esta landing page foi desenvolvida com o objetivo de apresentar o empreendimento **Residencial Bela Vista**, destacando suas principais características, localização privilegiada e facilitando o agendamento de visitas por meio de um formulário de contato responsivo.
+
+## 📸 Visual do Projeto
+
+### ✅ Versão Desktop
+![Versão Desktop](/LANDING-PAGE/img/landing-page.png)
+
+### ✅ Versão Mobile
+![Versão Mobile](/LANDING-PAGE/img/versão-mobile2.png)
+
+---
+
+## ✨ Funcionalidades
+
+- 📷 **Banner principal com imagem atrativa e chamada de ação**
+- 🏠 **Seção "Sobre o Residencial" com lista de benefícios**
+- 🖼️ **Galeria de imagens de alta qualidade**
+- 📍 **Mapa interativo da localização**
+- 📞 **Formulário de agendamento de visita**
+- 📱 **Totalmente responsivo para dispositivos móveis**
+
+---
